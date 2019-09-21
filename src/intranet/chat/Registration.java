@@ -21,10 +21,6 @@ import javax.swing.UIManager;
 import javax.swing.UnsupportedLookAndFeelException;
 import javax.swing.filechooser.FileNameExtensionFilter;
 
-/**
- *
- * @author AmiYash
- */
 public class Registration extends javax.swing.JFrame {
     
     private static Socket s= null;
