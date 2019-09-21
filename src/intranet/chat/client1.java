@@ -7,10 +7,7 @@ package intranet.chat;
 import java.net.*;  
 import java.io.*;
 import java.util.*;
-/**
- *
- * @author AmiYash
- */
+
 public class client1 implements Runnable{
    
     
