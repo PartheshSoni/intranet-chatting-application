@@ -15,11 +15,7 @@ import java.io.IOException;
 
 
 import javax.imageio.ImageIO;
-/**
- * This class will resize all the images in a given folder
- * @author 
- *
- */
+
 public class JavaImageResizer {
 
     public static File main(File f) throws IOException {
