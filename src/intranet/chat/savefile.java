@@ -14,10 +14,7 @@ import java.net.Socket;
 import javax.swing.JFrame;
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author AmiYash
- */
+
 public class savefile extends Thread{
     private static Socket fl=null;
     private static Socket perm=null;
